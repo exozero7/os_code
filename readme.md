@@ -6,5 +6,5 @@
 ```./peterson_solution``` - Peterson's solution with threads accessing shared file (empty file first) 
 
 ## License
-[MIT](https://opensource.org/licenses/MIT
+[MIT](https://opensource.org/licenses/MIT)
 
